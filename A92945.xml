@@ -1,0 +1,200 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached the last fast day in Leaden-Hall Street, in the house of one Padmore, a cheesmonger, by one of the zealous brethren, being a shoomaker, to the fraternity and holy sisters assembled together in a chamber. Being such another as Toby's dog was. The text was thus, And Paul opened his mouth, and said, men and brethren what shall we do.</title>
+            <author>One of the zealous brethren.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92945</idno>
+            <idno type="STC">Wing S2642</idno>
+            <idno type="STC">Thomason E91_32</idno>
+            <idno type="STC">ESTC R12928</idno>
+            <idno type="EEBO-CITATION">99859372</idno>
+            <idno type="PROQUEST">99859372</idno>
+            <idno type="VID">155749</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92945)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155749)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 16:E91[32])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached the last fast day in Leaden-Hall Street, in the house of one Padmore, a cheesmonger, by one of the zealous brethren, being a shoomaker, to the fraternity and holy sisters assembled together in a chamber. Being such another as Toby's dog was. The text was thus, And Paul opened his mouth, and said, men and brethren what shall we do.</title>
+                  <author>One of the zealous brethren.</author>
+               </titleStmt>
+               <extent>[8] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed in the yeare of private instructing, for John Lovel,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a title-page woodcut.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "March 4 1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Padmore.</term>
+               <term>Dissenters, Religious --  England --  Early works to 1800.</term>
+               <term>Satire, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155749:1"/>
+            <pb facs="tcp:155749:1" rendition="simple:additions"/>
+            <p>A SERMON PREACHED The laſt Faſt day in Leaden-Hall Street, in the houſe of one <hi>Paamore,</hi> a Cheeſmonger, by one of the zealous brethren, being a Shoomaker, to the fraternity and holy Siſters aſſembled together in a chamber.</p>
+            <p>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eing ſuch another as <hi>Toby's</hi> Dog was. The Text was thus, <q>And <hi>Paul</hi> opened his mouth, ana ſaid, Men and Brethren what ſhall we do.</q>
+            </p>
+            <figure>
+               <figDesc>naked figures engaged in discourse</figDesc>
+               <sp>
+                  <p>What? Shall we doe.</p>
+               </sp>
+               <sp>
+                  <p>
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </p>
+               </sp>
+               <p>
+                  <add>March. 4. 1642</add>
+               </p>
+            </figure>
+            <p>Printed in the Yeare of private inſtructing, for <hi>John Lovel,</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:155749:2"/>
+            <pb facs="tcp:155749:2"/>
+            <head>And <hi>Paul</hi> opened his mouth, and ſaid &amp;c.</head>
+            <p>
+               <seg rend="decorInit">T</seg>His Text hath as many ſentences in it as words, and as the waves of the ſea beating on a rocke make a great noiſe, ſo this Text doth perfume this cham<g ref="char:EOLhyphen"/>ber wherein we are aſſembled together; There<g ref="char:EOLhyphen"/>fore hearken and you ſhall heare me ſpeake, not as if I were full of new wine, but as it were (as indeed I am) repleniſhed with that Spirit where by we can doe all things, and even to a haire cut out and di<g ref="char:EOLhyphen"/>vide unto you all portions of Scripture, but not as the prophane men of Athens in their long ſtudied Sermons in Oxford and Cambridge, but as our ſpirituall brethren in London doe declare the word in their zealous exhortations to godly aſſemblies, privately gathered together as we are now; and that is to run over the words as they lye in their naturall order, <hi>And</hi> Paul <hi>opened his mouth, and ſaid, &amp;c.</hi>
+            </p>
+            <p>In the firſt place this word <hi>And</hi> comes to be conſidered, it may be rendred by other words, but not ſo properly, for <hi>Alſo</hi> doth ſometimes ex<g ref="char:EOLhyphen"/>preſſe as much as <hi>And,</hi> but it may be compared to the ſpirituall profeſſion of Religion now amongſt us, for <hi>and</hi> doth alwaies joyne words and ſen<g ref="char:EOLhyphen"/>tences together, and ſo the unity of the Spirit that is amongſt us hath brought us all together into this chamber, both me to preach, and your neighbour <hi>Ananias,</hi> and you goodman <hi>Brightman,</hi> and you brother <hi>A<g ref="char:EOLhyphen"/>braham,</hi> and you ſiſter <hi>Dorcas,</hi> and you ſiſter <hi>Rebecca,</hi> to heare me teach and inſtruct you according to the Spirit which moves in us continually in ſeverall places, marke therefore this word <hi>and,</hi> for unleſſe you have the true forme of godlineſſe, and doe read Scripture diligently, and doe ex<g ref="char:EOLhyphen"/>hort one another mutually, and doe attend to the hearing of Sermons carefully, and doe deſpiſe the prophane wretches of this world, and doe ſeperate your ſelves from the ungodly, and be pure and holy, and faith<g ref="char:EOLhyphen"/>full Pſalme ſingers, and good Chriſtians and zealous in defence of our doctrine, and reſiſt all Authority, nay even the King himſelfe, and ſtrive
+<pb facs="tcp:155749:3"/>
+to be all Kings, and to raigne in this life, and finally to be ſure of your ſalvation and election, and of your certaine places in heaven, you ſhall never come thither, therefore remember this <hi>and,</hi> and to be zealous and ſpirituall, and ſo and ſo as I ſaid before, then Earth and Heaven and Hell, and all ſhall be yours, and ſubject to the power of your Spirit, and ſo I have done with <hi>And.</hi>
+            </p>
+            <p>Now what ſhould I ſay of <hi>Paul?</hi> Plaine <hi>Paul</hi> without welt or guard, the Scripture gives him no other title but <hi>Paul,</hi> he was not called Biſhop <hi>Paul,</hi> Doctor <hi>Paul,</hi> nor Sir <hi>Paul,</hi> as Batchelours of Art are in the pro<g ref="char:EOLhyphen"/>phane Univerſities, &amp; this may give encouragement to me (by profeſſion a Shoomaker) and to my brother the J<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yner that taught in the forenoon, not to be diſcouraged for our meane gifts in learning, for we may have the light of ſpirituall knowledge at our fingers ends, as Coblers, Feltmakers, and other Trade<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>men have in London; O therefore you my zealous brethren and ſiſters, eſteeme of me and my brother, we are as two <hi>Pauls</hi> ſent unto you by the Spirit, and we ſay unto you, and all our beloved ſi<g ref="char:EOLhyphen"/>ſters, <hi>If we ſow unto you ſpirituall things, may not we reap your carnall th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ngs?</hi> we are call<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d from our trades, to become Teachers and Preachers, and to make you know what belongs unto ſalvation, and whereas <hi>Paul</hi> wrote a great many Epiſtles, we ſpend our breath continually, and waſte our ſpirits in opening unto you the holy Scriptures, <hi>We preach to you in ſeaſon and out of ſeaſon, that you might be ſaved by the fooliſhneſſe of our prea<g ref="char:EOLhyphen"/>ching:</hi> And ſo we proceed from <hi>Paul</hi> to the following words, expreſ<g ref="char:EOLhyphen"/>ſing the action of <hi>Paul,</hi> and that was he <hi>opened his mouth, And</hi> Paul <hi>opened his mouth and ſaid.</hi>
+            </p>
+            <p>
+               <hi>Opened his mouth:</hi> Speech is an evident ſigne of the inward man; for as a peece of gold is of more worth then a braſſe token; ſo holy and gra<g ref="char:EOLhyphen"/>cious diſcourſe is as neceſſary as ſalt at our tables to ſeaſon our talke to the edification of others. Beloved, we may here diſcover the boldneſſe of <hi>Paul,</hi> who had a mouth not to eat and drinke, only as ſome have, or to keepe ſilence when they ought ſharpely to reprove the iniquities of the times, and to cry downe ſinne with a ſtrong voice, and to be heard prea<g ref="char:EOLhyphen"/>ching in the garret, or on the houſe top, no <hi>Paul</hi> was none of the fat Prieſts that open their mouths oftner to feed themſelves then to feed
+<pb facs="tcp:155749:3"/>
+their flocke, <hi>But he opened his mouth,</hi> as my brother in the forenoone did, and as my ſelfe now does, that is to expound the Scriptures, and as hee opened his mouth, ſo with his mouth he opened the Scriptures; now there be divers ſorts of opening the mouth. A man may open his mouth to ſlander and backbite his neighbour, and to diſgrace us of the elect, and children of predeſtination, and becauſe we deale roundly in opening our mouths in the reproofe of the wicked, and of their prophane long lockes, therefore they open their mouths againſt us, and in a diſgracefull manner calls us Roundheads: But beloved, let not theſe words which malignants have deviſed, ſtop our mouths any more then butter can ſtop an Oven, but as the heat of the one doth melt the butter and keepe the oven open, ſo let our ſpirituall heats melt their malice like butter while we conſtantly keep our mouths ſtill open in private preaching and exhorting one ano<g ref="char:EOLhyphen"/>ther. I pray marke the ſimile or compariſon, being very worthy of your obſervation, and rem<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er alw<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies to keepe your mouths open by pray<g ref="char:EOLhyphen"/>ing and ſinging of Pſalmes; we cannot ſalute a friend or one of the ſi<g ref="char:EOLhyphen"/>ſters, but we muſt doe <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t with open mouth, that is by ſpeaking unto them in a religious manner at our holy meetings; therefore be ſure that whe<g ref="char:EOLhyphen"/>ther you pray or ſing, or ſpeake or conferre together, doe it with open mouth, and with much Chriſtian boldneſſe, and that aloud too, for <hi>Paul opened his mouth, and ſaid.</hi>
+            </p>
+            <p>
+               <hi>Sa<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d:</hi> What ſaid <hi>Paul?</hi> Brethren, it is a common matter amongſt many to ſay more then they underſtand, and to ſay that we are ignorant in the holy Scriptures, but it was onely the foole that ſaid in his heart there was no God, and ſo it is only with worldly fooles, and the fooliſh malignants that have ſaid there is in us no godlineſſe, but we have often ſaid enough to approve our ſelves the elect children of predeſtination, and therefore we will now ſee what <hi>Paul</hi> ſaid, and that was <hi>Men and bre<g ref="char:EOLhyphen"/>thren what ſhall we do?</hi>
+            </p>
+            <p>
+               <hi>What ſhall we doe?</hi> This indeed (Beloved) was a hard queſtion when the Lordly B<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſhops did raigne over us, for then many of our holy bre<g ref="char:EOLhyphen"/>thren were compelled to flie over to Amſterdam and New England, and there become Weavers and Buttonmakers, and Feltmakers, and the like, and were ſaine to leave our wives and children to be maintain's by the
+<pb facs="tcp:155749:4"/>
+Pariſh, ſo that then we might well ſay, <hi>What ſhall we do?</hi> But now we have got to live in the free liberty and ſun-ſhine of the Goſpel, and to reigne like Kings and Prophets in our own families, and to open our mouths in Pſalme-ſinging, and preaching in chambers, ſo that <hi>what ſhall we do?</hi> may be now turned into, We ſhall do what we liſt, and preach where we liſt, to the ſpirituall ediſying of our dearly beloved brethren and ſiſters in the new Jeruſalem of this elected City.</p>
+            <p>But ſuppoſe that the Cavaleroes (who are moſt of them Papiſts) ſhould come and take us here as we are together aſſembled, then we might ſay, <hi>Men and brethren what ſhall we do?</hi> We are Chriſts little flock, and therefore if the Wolfe come to the doore they would not ſpare to ſuck our bloud, and drink it down as they do ſack, and then it were too late to ſay, <hi>What ſhall we do?</hi> Beloved, this is a very conſidera<g ref="char:EOLhyphen"/>ble queſtion in theſe times which begin to frown upon us, for if we looſe that opinion of holineſſe which we and none but we deſerve, being all children of the elect; we ſhall be ſure to ſuffer perſecution, and be once more compelled to flie over with our wives and children to <hi>Amſterdam:</hi> you ſee how our Conventicles were deſpiſed amongſt the wicked, and in a notorious Ballad they call us Rogues, Raſcalls and Traitours, and therefore <hi>what ſhall we do?</hi> We know what we did before with our holy ſiſters, and our ſpirituall brethren, which was to expound, exhort and admoniſh them to ſtand ſtiffe for the cauſe, crying aloud, Bring in all your plate, and be not damned for a ſpoon, or a ſilver whiſtle, or ſuch like things of ſmall value; for better it is that you ſhould enter into the king<g ref="char:EOLhyphen"/>dome of heaven without a peny, then to be caſt into hell fire, and there be conſumed, becauſe you would not let your plate be melted and coined into money, that we might defend our ſelves, the laws, liberties and pri<g ref="char:EOLhyphen"/>viledges of the Goſpel preached onely in our Conventicle. Therefore, if you ask me as <hi>Paul</hi> asked them in the <hi>Acts, Men and brethren what ſhall we do?</hi> I anſwer, beloved brethren and ſiſters, we muſt cleave faſt to the infallible opinions which we have hitherto maintained, and which indeed have maintained us our wives and children, by the mutuall ſupport which we have received one from another; ſo that we ate, drank, and feaſted, and none of us had any need to ſay, <hi>What ſhall we do?</hi> But it is
+<pb facs="tcp:155749:4"/>
+thought by ſome wicked malignants, that there will be a peace brought about, and then we ſhall be compelled to hold our peace, and have no liberty to preach any more in Tubs, unleſſe we will diſturb the peace of the kingdome, as we have already ſufficiently done, and therefore if there be peace, and ſuch a peace as is likely to be made with the wicked, this peace will be paſt our underſtandings, contrary to our diſpoſitions, and a Tub full of our Religion will not be worth a barrell of Poor-John, will ſtink in the noſe and judgements of the people, and then we may ve<g ref="char:EOLhyphen"/>ry well ſay, <hi>Men and brethren what ſhall we do?</hi> Or if the Kings Majeſtie whom we have ſo much oppoſed, deſiring to be under the obedience of no Magiſtrates; if his Highneſſe, I ſay, ſhould come to London with his Army, or make peace with Parliament, what a Caſe were we in then? Our heads would tremble for fear, and our hearts quake in our bodies, and when we ſee Gibbets ſet up to hang us in every corner of the ſtreets, then we may cry out, <hi>What ſhall we do?</hi> Therefore let us make long prayers that there may be no peace, that the King may not come to Lon<g ref="char:EOLhyphen"/>don, and that we may preach ſtill in Tubs, and never ſee that day when with trembling fear we ſhall open our mouths and ſay, <hi>Men and brethren what ſhall we do?</hi>
+            </p>
+            <p>No ſooner had the Tub-Lecturer cried out theſe laſt words, but they had occaſion to make uſe of his edifying Doctrine, for his audience iſ<g ref="char:EOLhyphen"/>ſuing out of the chamber where they were aſſembled, the boyes beat his Doctrine into ſome of their heads, rent others clothes, and plucked the black bags from the holy ſiſters diſſembling faces, ſo that they would fain have hid their faces but could not, and ſtill they perſecuted them, crying, The Tub-Lecturers, the Tub-men and Tub-women, while they replyed not a word, but comforted themſelves afterwards at home with good cheer at ſupper, ſaying one to another, Maſter ſuch an one was ſurely a Prophet, and this forenoon he found it true that we have now and ſhall have hereafter more juſt cauſe to cry, <hi>Men and brethren what ſhall we do?</hi> Thus you have the Text, the Sermon, and what followed the Sermon faithfully delivered, according to the atteſtation of many witneſſes.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
